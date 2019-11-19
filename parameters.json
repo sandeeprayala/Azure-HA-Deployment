@@ -30,7 +30,7 @@
             "value": "ADMIN-SSHKEY"
         },
         "vmSize": {
-            "value": "Standard_D3_v2"
+            "value": "Standard D3"
         },
         "imageVersion": {
             "value": "8.1.0"
